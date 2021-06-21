@@ -14,8 +14,8 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?logo=unity&logoColor=white&style=for-the-badge" />
    <img alt="C" src="https://img.shields.io/badge/C-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="react" src="https://img.shields.io/badge/react-E34F26?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="redux" src="https://img.shields.io/badge/redux-E34F26?logo=redux&logoColor=white&style=for-the-badge" />
+  <img alt="react" src="https://img.shields.io/badge/react-000000?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="redux" src="https://img.shields.io/badge/redux-F7DF1E?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="firebase" src="https://img.shields.io/badge/firebase-E34F26?logo=firebase&logoColor=white&style=for-the-badge" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Rishi-T2408&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
