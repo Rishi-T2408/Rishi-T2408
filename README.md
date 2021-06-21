@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=Rishi-T2408)
 ### Hi there !👋...I'm Rishi Raj Tiwari a web developer and Deep learning enthusiast
 
-- 🔭 I’m currently working on GAN assisted pigmentation of Graylevel snaps.
-- 🌱 I’m currently learning Pytorch and Sass..
-- 💬 Ask me about Sass and Data structures algorithm...
+- 🔭 I’m currently working on full stack development using React as front end and Firebase as backend.
+- 🌱 I’m currently learning Firebase, Redux and React..
+- 💬 Ask me about React and Data structures algorithm...
 
 ### Computer languages:
 <p>
