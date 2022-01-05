@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Rishi-T2408)
-### Hi there !👋...I'm Rishi Raj Tiwari a web developer and Deep learning enthusiast
+### Hi there !👋...I'm Rishi Raj Tiwari a web developer.
 
 - 🔭 I’m currently working on full stack development using React as front end and Firebase as backend.
 - 🌱 I’m currently learning Firebase, Redux and React..
